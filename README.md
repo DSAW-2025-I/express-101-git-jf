@@ -1,3 +1,10 @@
+# Despliegue en vercel: 
+- https://express-101-git-lcycnq612-juan-felipe-vega-loaizas-projects.vercel.app/
+- https://express-101-git-lcycnq612-juan-felipe-vega-loaizas-projects.vercel.app/user-info/1
+
+# Author: Juan Felipe Vega Loaiza
+
+
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/pKOlJAgR)
 # Taller en Parejas: Creación de un Endpoint con Express.js
 
